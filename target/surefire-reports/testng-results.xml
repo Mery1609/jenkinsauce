@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8495" started-at="2018-12-17T01:47:26Z" finished-at="2018-12-17T01:47:35Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8495" started-at="2018-12-17T01:47:26Z" finished-at="2018-12-17T01:47:35Z">
+      <class name="com.cybertek.sauceTest">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.cybertek.sauceTest@edf4efb]" name="login" duration-ms="8459" started-at="2018-12-17T01:47:26Z" finished-at="2018-12-17T01:47:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.cybertek.sauceTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
